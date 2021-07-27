@@ -1,0 +1,9 @@
+C Programming Language,Dennis Ritchie,Faculty of engineering,Programming,4-899-0,10,10,22/12/2017
+A breif history of time,Stephen Hawking,Warner Bros.,Physics,4-899-1,15,14,21/12/2017
+The Hidden Reality,Brian Greene,Alfred A. Knopf,Physics,4-899-2,10,10,30/11/2017
+The Bro Code,Barney Stinson,HIMYM,Comedy,4-899-4,10,9,25/11/2017
+Love in the time of cholera,Gabriel Garcia,Youssef Abdelaziz,Drama,4-899-7,10,8,21/12/2017
+The Great Gatsby,Scott Fitzgerald,Charles Scribner,Novel,4-899-8,10,9,23/12/2017
+The Castle,Franz Kafka,Schocken,Novel,4-899-10,10,9,23/12/2017
+
+
